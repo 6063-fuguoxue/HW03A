@@ -1,8 +1,6 @@
 let r1 = 15;
 let r2 = 5;
 let step = 30;
-let w = 600;
-let h = 800;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
