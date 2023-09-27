@@ -7,4 +7,5 @@ Upon observing the pattern, I saw that there are two sizes of circles and they a
 ![hw03a](./hw03a.jpg)
 
 Therefore, this pattern can be created using a nested for loop to create the "grid", and an if-else structure inside the nested for loop to control the size of each dot. 
+
 This assignment is relatively easy for me among the three assignments this week. 
